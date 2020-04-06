@@ -1,0 +1,2 @@
+# Natural-Ventilation-Model
+This theoretical model predicts temperatures inside Stanford's civil engineering building using a combination of convective and conductive heat flow analysis. It accounts for many factors including internal heat from lights and occupants, night flush convection, radiation, and human-driven airflow. The building, Y2E2, maintains temperatures purely through natural ventilation and does not require any man-made heating or cooling to do so.
